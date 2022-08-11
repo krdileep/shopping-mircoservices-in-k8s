@@ -1,0 +1,5 @@
+releases:
+  - chart: ./micro-service
+    name: email-micro-service
+    values:
+      - email-values.yaml
